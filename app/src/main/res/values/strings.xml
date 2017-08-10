@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Piano</string>
+    <string name="title_activity_custom_view">Custom View</string>
+</resources>
